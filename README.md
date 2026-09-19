@@ -858,3 +858,31 @@ AI Agents
 B.Tech CSE – Data Science
 
 `Python` • `Machine Learning` • `Deep Learning` • `NLP` • `AI`
+
+
+#work flow 
+
+📝 Text Input
+      ↓
+🧹 Text Cleaning & Normalization
+      ↓
+🔤 Tokenization
+      ↓
+🏷️ POS Tagging / NER
+      ↓
+🧩 Syntax & Semantic Analysis
+      ↓
+🔢 Text Representation
+   (TF-IDF / Embeddings)
+      ↓
+🤖 NLP Model
+   (ML / DL / Transformer)
+      ↓
+🎯 NLP Task
+   ├── Classification
+   ├── Sentiment Analysis
+   ├── Translation
+   ├── Summarization
+   └── Question Answering
+      ↓
+📤 Output
